@@ -1,21 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hyojin's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
-## 📞 EMAIL
-<div>
-    <a href="https://www.instagram.com/hyoji_nx/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:oozxoocv82@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    <a href="mailto:k_hyojin82@naver.com">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
-    </a>
-
-</div><br><br>
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20hyojin's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)-->
 
 
-## 📚 STACKS
+Hi. I'm developing to make services that will improve lives.
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- 🎓 College student
+- 💻 Learning Web full stack
+ <br><br><br>
+ 
 
+
+📚 <b>STACKS</b>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -61,6 +56,6 @@
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
 
 
-</div><br><br><br>
+</div><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojinx&count_bg=%23F6A8A4&title_bg=%23555555&icon=github.svg&icon_color=%23FFF9F9&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
