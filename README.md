@@ -55,5 +55,3 @@ Hi. I'm developing to make services that will improve lives.
 
 
 </div><br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojinx&count_bg=%23F6A8A4&title_bg=%23555555&icon=github.svg&icon_color=%23FFF9F9&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
