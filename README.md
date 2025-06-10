@@ -3,7 +3,6 @@
 
 Hi. I'm developing to make services that will improve lives.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 🎓 College student
 - 💻 Learning Web full stack
  <br><br><br>
  
