@@ -27,18 +27,16 @@ Hi. I'm developing to make services that will improve lives.
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <br>
-  
+
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/kali linux-557C94?style=for-the-badge&logo=kali linux&logoColor=white"> 
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-2D8C3C?style=for-the-badge&logo=spring&logoColor=white"> 
 
   <br>
-  
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+
+  <img src="https://img.shields.io/badge/spring-2D8C3C?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/kibana-352A71?style=for-the-badge&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/logstash-333333?style=for-the-badge&logo=logstash&logoColor=white">
@@ -54,7 +52,6 @@ Hi. I'm developing to make services that will improve lives.
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-EA4C89?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/swift-f05138?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
 
 
 </div><br><br>
