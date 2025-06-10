@@ -11,8 +11,6 @@ Hi. I'm developing to make services that will improve lives.
 📚 <b>STACKS</b>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <div> 
-  Frontend
-  <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c-F09820?style=for-the-badge&logo=c&logoColor=white">
